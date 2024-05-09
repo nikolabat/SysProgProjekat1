@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ge+xUSGhSdAbEJBrBsTshVuqIMElUNfP1Mfas1n5HZ26dq3cIeaE9swRn8yDN7l+w1ZpbrvBLkx9MhD2vUHgaw==",
+  "success": true,
+  "projectFilePath": "C:\\FAKS\\IV GODINA\\Sistemsko Programiranje\\SysProgProjekat1\\SysProgSpotifyApp\\SysProgSpotifyApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nikola\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

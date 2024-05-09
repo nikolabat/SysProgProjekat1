@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\FAKS\\IV GODINA\\Sistemsko Programiranje\\SysProgProjekat1\\SysProgSpotifyApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCADB6BF-AD3F-4952-BAA7-61D5842894C4}|SysProgSpotifyApp.csproj|c:\\faks\\iv godina\\sistemsko programiranje\\sysprogprojekat1\\sysprogspotifyapp\\httpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCADB6BF-AD3F-4952-BAA7-61D5842894C4}|SysProgSpotifyApp.csproj|solutionrelative:httpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCADB6BF-AD3F-4952-BAA7-61D5842894C4}|SysProgSpotifyApp.csproj|c:\\faks\\iv godina\\sistemsko programiranje\\sysprogprojekat1\\sysprogspotifyapp\\albumsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCADB6BF-AD3F-4952-BAA7-61D5842894C4}|SysProgSpotifyApp.csproj|solutionrelative:albumsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCADB6BF-AD3F-4952-BAA7-61D5842894C4}|SysProgSpotifyApp.csproj|c:\\faks\\iv godina\\sistemsko programiranje\\sysprogprojekat1\\sysprogspotifyapp\\albuminfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCADB6BF-AD3F-4952-BAA7-61D5842894C4}|SysProgSpotifyApp.csproj|solutionrelative:albuminfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCADB6BF-AD3F-4952-BAA7-61D5842894C4}|SysProgSpotifyApp.csproj|c:\\faks\\iv godina\\sistemsko programiranje\\sysprogprojekat1\\sysprogspotifyapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCADB6BF-AD3F-4952-BAA7-61D5842894C4}|SysProgSpotifyApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AlbumInfo.cs",
+              "DocumentMoniker": "C:\\FAKS\\IV GODINA\\Sistemsko Programiranje\\SysProgProjekat1\\SysProgSpotifyApp\\AlbumInfo.cs",
+              "RelativeDocumentMoniker": "AlbumInfo.cs",
+              "ToolTip": "C:\\FAKS\\IV GODINA\\Sistemsko Programiranje\\SysProgProjekat1\\SysProgSpotifyApp\\AlbumInfo.cs",
+              "RelativeToolTip": "AlbumInfo.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T17:24:49.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AlbumSearch.cs",
+              "DocumentMoniker": "C:\\FAKS\\IV GODINA\\Sistemsko Programiranje\\SysProgProjekat1\\SysProgSpotifyApp\\AlbumSearch.cs",
+              "RelativeDocumentMoniker": "AlbumSearch.cs",
+              "ToolTip": "C:\\FAKS\\IV GODINA\\Sistemsko Programiranje\\SysProgProjekat1\\SysProgSpotifyApp\\AlbumSearch.cs",
+              "RelativeToolTip": "AlbumSearch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAADOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T17:25:07.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HTTPServer.cs",
+              "DocumentMoniker": "C:\\FAKS\\IV GODINA\\Sistemsko Programiranje\\SysProgProjekat1\\SysProgSpotifyApp\\HTTPServer.cs",
+              "RelativeDocumentMoniker": "HTTPServer.cs",
+              "ToolTip": "C:\\FAKS\\IV GODINA\\Sistemsko Programiranje\\SysProgProjekat1\\SysProgSpotifyApp\\HTTPServer.cs",
+              "RelativeToolTip": "HTTPServer.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAEYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T17:25:27.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\FAKS\\IV GODINA\\Sistemsko Programiranje\\SysProgProjekat1\\SysProgSpotifyApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\FAKS\\IV GODINA\\Sistemsko Programiranje\\SysProgProjekat1\\SysProgSpotifyApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T17:23:46.828Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
