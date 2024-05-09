@@ -53,7 +53,7 @@ namespace SysProgSpotifyApp
                 var queryParams = HttpUtility.ParseQueryString(uri.Query);
                 if (uri.ToString() == String.Empty)
                 {
-                    SendResponse(context, "No city and days given!"u8.ToArray(), "text/plain", HttpStatusCode.BadRequest);
+                    SendResponse(context, "No query given!"u8.ToArray(), "text/plain", HttpStatusCode.BadRequest);
                     return;
                 }
                 if (request.RawUrl == "/favicon.ico")
@@ -61,13 +61,7 @@ namespace SysProgSpotifyApp
                     return;
                 }
                 var query = queryParams["q"]!;
-               // var surname = queryParams["cnt"]!;
-                //if (!nameSurname.All(Char.IsLetter))
-                //{
-                //    SendResponse(context, "City can only contain letters!"u8.ToArray(), "text/plain", HttpStatusCode.UnprocessableContent);
-                //    return;
-                //}
-
+               
                 List<AlbumInfo> albumInfos = AlbumSearch.FetchAlbumInfo(query);
                 if (albumInfos == null)
                 {
@@ -75,7 +69,7 @@ namespace SysProgSpotifyApp
                 }
                 if (albumInfos!.Count == 0)
                 {
-                    SendResponse(context, "No data for given name and surname found!"u8.ToArray(), "text/plain", HttpStatusCode.NoContent);
+                    SendResponse(context, "No data for given query found!"u8.ToArray(), "text/plain", HttpStatusCode.NoContent);
                     return;
                 }
                 string allInfos = String.Join(Environment.NewLine, albumInfos);
