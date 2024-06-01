@@ -1,0 +1,17 @@
+C:\FAKS\IV GODINA\Sistemsko Programiranje\SysProgSpotifyApp2\bin\Debug\net8.0\SysProgSpotifyApp2.exe
+C:\FAKS\IV GODINA\Sistemsko Programiranje\SysProgSpotifyApp2\bin\Debug\net8.0\SysProgSpotifyApp2.deps.json
+C:\FAKS\IV GODINA\Sistemsko Programiranje\SysProgSpotifyApp2\bin\Debug\net8.0\SysProgSpotifyApp2.runtimeconfig.json
+C:\FAKS\IV GODINA\Sistemsko Programiranje\SysProgSpotifyApp2\bin\Debug\net8.0\SysProgSpotifyApp2.dll
+C:\FAKS\IV GODINA\Sistemsko Programiranje\SysProgSpotifyApp2\bin\Debug\net8.0\SysProgSpotifyApp2.pdb
+C:\FAKS\IV GODINA\Sistemsko Programiranje\SysProgSpotifyApp2\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\FAKS\IV GODINA\Sistemsko Programiranje\SysProgSpotifyApp2\obj\Debug\net8.0\SysProgSpotifyApp2.csproj.AssemblyReference.cache
+C:\FAKS\IV GODINA\Sistemsko Programiranje\SysProgSpotifyApp2\obj\Debug\net8.0\SysProgSpotifyApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\FAKS\IV GODINA\Sistemsko Programiranje\SysProgSpotifyApp2\obj\Debug\net8.0\SysProgSpotifyApp2.AssemblyInfoInputs.cache
+C:\FAKS\IV GODINA\Sistemsko Programiranje\SysProgSpotifyApp2\obj\Debug\net8.0\SysProgSpotifyApp2.AssemblyInfo.cs
+C:\FAKS\IV GODINA\Sistemsko Programiranje\SysProgSpotifyApp2\obj\Debug\net8.0\SysProgSpotifyApp2.csproj.CoreCompileInputs.cache
+C:\FAKS\IV GODINA\Sistemsko Programiranje\SysProgSpotifyApp2\obj\Debug\net8.0\SysProgS.03100AEA.Up2Date
+C:\FAKS\IV GODINA\Sistemsko Programiranje\SysProgSpotifyApp2\obj\Debug\net8.0\SysProgSpotifyApp2.dll
+C:\FAKS\IV GODINA\Sistemsko Programiranje\SysProgSpotifyApp2\obj\Debug\net8.0\refint\SysProgSpotifyApp2.dll
+C:\FAKS\IV GODINA\Sistemsko Programiranje\SysProgSpotifyApp2\obj\Debug\net8.0\SysProgSpotifyApp2.pdb
+C:\FAKS\IV GODINA\Sistemsko Programiranje\SysProgSpotifyApp2\obj\Debug\net8.0\SysProgSpotifyApp2.genruntimeconfig.cache
+C:\FAKS\IV GODINA\Sistemsko Programiranje\SysProgSpotifyApp2\obj\Debug\net8.0\ref\SysProgSpotifyApp2.dll

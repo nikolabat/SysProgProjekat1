@@ -18,7 +18,7 @@ namespace SysProgSpotifyApp
             try
             {
                 client.BaseAddress = new Uri(_baseUrl);
-                var response = client.GetAsync($"?q=Taylor&type=album&limit=1&access_token=BQBsNWmzkn4qZAyWWm7EVSvdLv8FhlhNF2uH6eF0R6ZGaGXHqvvk6IWpKjUB8if7r30hY9_A-JcEy2nMudi9csRlu0yzoM9eebCBMzgFD0gVHdKt7Po").Result;
+                var response = client.GetAsync($"?q=Taylor&type=album&limit=1&access_token=BQDVowFBs_852Oi4cKZWg_4RTX6XmB6xw79nXHbHlz-HDD8660O31tBek0J9JhlLCRxHAD9e7dhm_oKEAiH5IhlZV3ormDYH6Lys-drLfSnoU1iRmvo").Result;
                 if (!response.IsSuccessStatusCode)
                 {
                     throw new HttpRequestException("Greska prilikom rada sa API-em");

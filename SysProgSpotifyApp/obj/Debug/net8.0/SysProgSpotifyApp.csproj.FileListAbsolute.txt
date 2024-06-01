@@ -32,3 +32,4 @@ C:\FAKS\IV GODINA\Sistemsko Programiranje\SysProgProjekat1\SysProgSpotifyApp\obj
 C:\FAKS\IV GODINA\Sistemsko Programiranje\SysProgProjekat1\SysProgSpotifyApp\obj\Debug\net8.0\SysProgSpotifyApp.pdb
 C:\FAKS\IV GODINA\Sistemsko Programiranje\SysProgProjekat1\SysProgSpotifyApp\obj\Debug\net8.0\SysProgSpotifyApp.genruntimeconfig.cache
 C:\FAKS\IV GODINA\Sistemsko Programiranje\SysProgProjekat1\SysProgSpotifyApp\obj\Debug\net8.0\ref\SysProgSpotifyApp.dll
+C:\FAKS\IV GODINA\Sistemsko Programiranje\SysProgProjekat1\SysProgSpotifyApp\obj\Debug\net8.0\SysProgSpotifyApp.sourcelink.json
